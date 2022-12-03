@@ -1,0 +1,14 @@
+.header {
+	-webkit-user-select: none;
+	-webkit-app-region: drag;
+	height: 30px;
+	background: #f2f1f1;
+}
+
+.title {
+	margin: 0;
+	font-size: 10px;
+	line-height: 30px;
+	color: #000;
+	text-align: center;
+}

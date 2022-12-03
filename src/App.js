@@ -1,5 +1,11 @@
+import Titlebar from "./components/Titlebar";
+
 function App() {
-	return <h1>Milliman</h1>;
+	return (
+		<>
+			<Titlebar />
+		</>
+	);
 }
 
 export default App;
