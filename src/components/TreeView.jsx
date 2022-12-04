@@ -20,11 +20,10 @@ const useStyles = makeStyles({
 		},
 		"& .MuiTreeItem-label": {
 			fontSize: 10,
+			fontFamily: ["Inter", "sans-serif"].join(","),
 		},
 	},
-	label: {
-		fontSize: 10,
-	},
+
 	folder: {
 		fill: "orange",
 	},
