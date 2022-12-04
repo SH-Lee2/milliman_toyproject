@@ -18,3 +18,8 @@ npm run dev
 ## 프로젝트 구현 화면
 
 <img src="https://user-images.githubusercontent.com/59095793/205445328-bd83c1a6-f908-4542-980d-f2ab31bf9586.gif"/>
+
+## 추가 설치 라이브러리
+- uuid : 카테고리 더미 데이터 생성시 id값을 위해 설치
+- @material-ui/icons : 사이드바 폴더와 파일 아이콘을 위해 설치
+- electron-is-dev, concurrently, wait-on : electron setup을 위해 설치 
